@@ -45,6 +45,9 @@ Updated professional profiles on:
 
 ### Task 3: Platforms Activity
 Completed a beginner coding challenge on HackerRank and created a Digital Literacy Awareness quiz using Google Forms.
+```
+Here is the google forms link for the same: https://forms.gle/DYBybqCXJfon2Ws77
+```
 
 ### Task 4: Email Etiquette
 Drafted two professional emails:
